@@ -1,0 +1,5 @@
+C:/Users/Student/source/repos/testGit/CV03_2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Student/source/repos/testGit/CV03_2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Student/source/repos/testGit/CV03_2/out/build/x64-debug/CV03_2/CMakeFiles/CV03_2.dir
+C:/Users/Student/source/repos/testGit/CV03_2/out/build/x64-debug/CV03_2/CMakeFiles/edit_cache.dir
+C:/Users/Student/source/repos/testGit/CV03_2/out/build/x64-debug/CV03_2/CMakeFiles/rebuild_cache.dir
